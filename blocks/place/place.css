@@ -24,7 +24,7 @@
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 654px) {
   .place {
     grid-template-columns: 320px;
     grid-template-areas:
