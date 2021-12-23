@@ -9,5 +9,5 @@ HTML, CSS (flex, grid, @media, etc). Сверстан адаптивно.
 
 Автор: __Елена Блаженских__
 
-
+https://elena-blz.github.io/russian-travel/index.html
 
