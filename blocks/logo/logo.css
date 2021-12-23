@@ -1,11 +1,9 @@
 .logo {
-
-  height: 52px;
-
+  max-height: 52px;
 }
 
 @media (max-width: 425px) {
   .logo {
-    height: 42px;
+    max-height: 42px;
   }
 }

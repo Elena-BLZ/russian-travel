@@ -1,11 +1,7 @@
 .header {
-    display: flex;
-    justify-content: space-between;
-    /*max-height: 52px;*/
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  /*max-height: 52px;*/
+  align-items: center;
 
 }
-
-
-
-

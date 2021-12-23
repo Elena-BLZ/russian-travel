@@ -1,19 +1,12 @@
 .header__lang-link {
-    text-decoration: none;
-    color: white;
-    padding-left: 18px;
-
-
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 400;
-
-    line-height: 28px;
-
-    text-align: right;
-
-
-
+  text-decoration: none;
+  color: white;
+  padding-left: 18px;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: right;
 }
 
 @media (max-width: 425px) {
