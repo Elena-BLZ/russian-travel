@@ -4,7 +4,7 @@
   line-height: 36px;
   text-align: center;
   margin: 0 0 64px;
-  white-space: pre-line;
+  max-width: 640px;
 }
 
 @media (max-width: 1024px) {
@@ -18,5 +18,6 @@
     font-size: 16px;
     line-height: 20px;
     margin: 0 0 40px;
+    max-width: 288px;
   }
 }
